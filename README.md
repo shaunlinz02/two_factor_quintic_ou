@@ -29,6 +29,6 @@ with $\rho \in [-1,1]$, $\lambda_x, \lambda_y >0$, $\theta \geq 0$, $\alpha_k \i
 
 The two-factor Quintic OU model can fit to the joint SPX-VIX volatility surfaces, while remaining consistent with the observed SSR range over several maturities. Here are some sample fits:
 
-![PDF Preview](spx_term_structure_06052024.jpg)
+<img src="images/spx_term_structure_06052024.jpg" alt="PDF Preview" width="800"/>
 
 
