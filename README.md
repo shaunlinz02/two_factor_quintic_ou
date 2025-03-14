@@ -27,6 +27,8 @@ $$
 
 with $\rho \in [-1,1]$, $\lambda_x, \lambda_y >0$, $\theta \geq 0$, $\alpha_k \in \mathbb{R}$.
 
+Constructed using two OU processes, The $\mbox{VIX}^2$ is polynomial in $(X, Y)$ allowing fast computation of VIX derivatives via numerical integration (e.g.~quantization of multivariate Gaussian). Simulation of $\sigma_t$ and $\mbox{VIX}_t$ is exact, simulation of $logS_t$ is also straightfoward.  
+
 The two-factor Quintic OU model can fit to the joint SPX-VIX volatility surfaces, while remaining consistent with the observed SSR range over several maturities. Here are some sample fits:
 
 #### SPX term structure 6 May 2024
