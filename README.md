@@ -27,4 +27,4 @@ $$
 
 with $\rho \in [-1,1]$, $\lambda_x, \lambda_y >0$, $\theta \geq 0$, $\alpha_k \in \mathbb{R}$.
 
-![PDF Preview](images/spx_2_fac_long_2_w_ssr_preview.png)
+
