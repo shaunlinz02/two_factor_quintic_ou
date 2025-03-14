@@ -20,9 +20,9 @@ $$
 X_t = \int_0^t e^{-\lambda_x(t-s)}dW_s, \quad Y_t = \int_0^t e^{-\lambda_y(t-s)}dW_s,
 $$
 
-where $B=\rho W + \sqrt{1-\rho^2} W^{\perp}$, $(W,W^{\perp})$ a two-dimensional Brownian motion defined on a risk-neutral filtered probability space $(\Omega, \mathcal F,(\mathcal F_t)_{t\geq 0}, \mathbb Q ), \rho \in [-1,1]$. The two-factor Quintic OU model has the following model parameters
+where $B=\rho W + \sqrt{1-\rho^2} W^{\perp}$, $(W,W^{\perp})$ a two-dimensional Brownian motion. The two-factor Quintic OU model has the following model parameters
 
 $$
 (\lambda_x, \lambda_y, \theta, \rho, \alpha_0, \alpha_1, \alpha_2, \alpha_3, \alpha_4, \alpha_5),$$
 
-with $\lambda_x, \lambda_y >0$, $\theta \geq 0$, $\alpha_k \in \mathbb{R}$.
+with $\rho \in [-1,1]$, $\lambda_x, \lambda_y >0$, $\theta \geq 0$, $\alpha_k \in \mathbb{R}$.
