@@ -26,3 +26,5 @@ $$
 (\lambda_x, \lambda_y, \theta, \rho, \alpha_0, \alpha_1, \alpha_2, \alpha_3, \alpha_4, \alpha_5),$$
 
 with $\rho \in [-1,1]$, $\lambda_x, \lambda_y >0$, $\theta \geq 0$, $\alpha_k \in \mathbb{R}$.
+
+[View PDF](images/spx_2_fac_long_2_w_ssr.pdf)
