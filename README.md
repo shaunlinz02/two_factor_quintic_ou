@@ -32,7 +32,7 @@ Constructed using two OU processes, The $\mbox{VIX}^2$ is polynomial in $(X, Y)$
 The two-factor Quintic OU model can fit to the joint SPX-VIX volatility surfaces, while remaining consistent with the observed SSR range over several maturities. Here are some sample fits:
 
 #### SPX term structure 6 May 2024
-<img src="images/spx_term_structure_calib_06052024.jpg" alt="PDF Preview" width="400"/>
+<img src="images/spx_term_structure_calib_06052024.jpg" alt="PDF Preview" width="500"/>
 
 #### Joint SPX & VIX volatility surfaces and SSR 23 October 2017
 <img src="images/spx_2_fac_long_2_w_ssr.jpg" alt="PDF Preview" width="500"/>
